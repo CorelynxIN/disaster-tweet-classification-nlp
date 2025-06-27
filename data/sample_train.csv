@@ -1,0 +1,21 @@
+id,keyword,location,text,target
+1,ablaze,Birmingham,Forest fire ablaze near residential area. Evacuate immediately!,1
+2,accident,New York,Just had a car accident on I-95. Traffic is terrible.,1
+3,fire,California,California wildfires are spreading rapidly. Emergency services mobilized.,1
+4,earthquake,Japan,Massive earthquake hits Japan. Tsunami warning issued.,1
+5,flood,Texas,Houston floods causing major damage to downtown area.,1
+6,explosion,London,Factory explosion in industrial district. Multiple injuries reported.,1
+7,crash,Miami,Plane crash at Miami International Airport. Emergency crews responding.,1
+8,emergency,Chicago,Emergency evacuation underway due to gas leak in apartment building.,1
+9,disaster,Philippines,Typhoon disaster in Philippines. Thousands of people affected.,1
+10,tornado,Oklahoma,Tornado warning issued for Oklahoma County. Seek shelter immediately.,1
+11,blazing,Los Angeles,The sun is blazing hot today in LA. Need some sunscreen!,0
+12,killer,New York,This workout is killer! Best gym session ever.,0
+13,blown,Miami,I'm blown away by this amazing concert tonight!,0
+14,fire,Instagram,This new song is fire! Can't stop listening to it.,0
+15,crash,,"I'm going to crash early tonight, so tired from work.",0
+16,burning,Twitter,Burning the midnight oil to finish this project.,0
+17,exploding,Facebook,My phone is exploding with notifications today.,0
+18,destroyed,YouTube,That comedian destroyed the audience with his jokes.,0
+19,screaming,Reddit,Kids are screaming with joy at the playground.,0
+20,apocalypse,Netflix,Just watched the new apocalypse movie. Mind blown!,0 
