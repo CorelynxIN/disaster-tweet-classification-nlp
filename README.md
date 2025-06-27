@@ -220,12 +220,10 @@ jupyter notebook notebooks/disaster_tweet_classification.ipynb
 
 ## 👥 작성자 / Author
 
-**당신의 이름 / Your Name**
+**당신의 이름 / minyeong kim**
 
-- 📧 **이메일 / Email**: your.email@example.com
-- 🐙 **GitHub**: [@your-username](https://github.com/your-username)
-- 🏅 **Kaggle**: [Your Kaggle Profile](https://www.kaggle.com/your-username)
-- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 **이메일 / Email**: win198@naver.com
+ 
 
 ---
 
